@@ -21,6 +21,4 @@
 <li>Step 2 - Run <code>rails s</code> to start the server</li>
 </ul>
 <hr>
-</ul>
-<hr>
 <p dir="auto">Made with lots of :coffee: by <a href="https://www.linkedin.com/in/bianca-chu/" rel="nofollow" target="_blank">Bianca Chu</a>
