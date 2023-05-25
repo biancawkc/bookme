@@ -16,7 +16,7 @@
 
 <h2 tabindex="-1" dir="auto">How to use the app :thinking:</h2>
 <ul dir="auto">
-<li>Step 1 - Run <code>bundle install</code> on the app folder to install all the dependencies from the framework </li>
+<li>Step 1 - Run <code>bundle install</code> in the app folder to install all the dependencies from the framework </li>
 <li>Step 2 - Run <code>rails s</code> to start the server</li>
 </ul>
 <hr>
